@@ -1,7 +1,6 @@
 # Bajaj Finserv Health Hiring Challenge - JAVA
+🔗 Deploy Link: https://bajaj-finserv-v2c4.onrender.com
 
-
-Deploy Link :- https://bajaj-finserv-v2c4.onrender.com
 
 ## Project Overview
 This Spring Boot application automatically:
@@ -48,6 +47,10 @@ user.name=Your Full Name
 user.regNo=REG12347
 user.email=your.email@example.com
 ```
+
+## Output Screensh
+<img width="1225" height="722" alt="Screenshot 2025-12-01 at 7 40 54 PM" src="https://github.com/user-attachments/assets/d420a76f-ebf3-4057-a377-2ef67d8729f2" />
+
 
 ## SQL Solutions
 
@@ -145,7 +148,7 @@ The application provides detailed logging:
 - Ensure webhook URL is correct
 
 ## Author
-Shristi
+Shristi Shrivastava
 
 ## Submission Details
 - GitHub Repository: [Your GitHub Repo URL]
@@ -159,8 +162,3 @@ Shristi
 
 ## License
 This project is created for Bajaj Finserv Health hiring challenge.
-
-
-
-
-
