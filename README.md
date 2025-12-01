@@ -48,7 +48,7 @@ user.regNo=REG12347
 user.email=your.email@example.com
 ```
 
-## Output Screensh
+## Output Screenshot
 <img width="1225" height="722" alt="Screenshot 2025-12-01 at 7 40 54 PM" src="https://github.com/user-attachments/assets/d420a76f-ebf3-4057-a377-2ef67d8729f2" />
 
 
@@ -162,3 +162,4 @@ Shristi Shrivastava
 
 ## License
 This project is created for Bajaj Finserv Health hiring challenge.
+
