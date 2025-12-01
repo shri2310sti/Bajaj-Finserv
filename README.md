@@ -150,10 +150,6 @@ The application provides detailed logging:
 ## Author
 Shristi Shrivastava
 
-## Submission Details
-- GitHub Repository: [Your GitHub Repo URL]
-- JAR Download Link: [Raw GitHub JAR Link]
-
 ## Notes
 - No controllers are exposed; the entire flow runs on startup
 - Application uses `ApplicationRunner` interface for startup execution
@@ -162,4 +158,5 @@ Shristi Shrivastava
 
 ## License
 This project is created for Bajaj Finserv Health hiring challenge.
+
 
